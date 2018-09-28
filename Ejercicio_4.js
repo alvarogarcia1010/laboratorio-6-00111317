@@ -1,6 +1,5 @@
 function sumar(arreglo) 
 {
-    console.log(arreglo);
     if(arreglo.length % 2 == 0) 
     {
         for(let i=0; i<arreglo.length/2; i++) 
